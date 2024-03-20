@@ -271,5 +271,5 @@
 Выполняйте задание в этом репозитории. 
 **Ваш код должен быть реализован в одном файле [`src/ProcessImpl.kt`](src/ProcessImpl.kt) или `src/ProcessImpl.java`**.
 
-Инструкции по сдаче заданий находятся в 
-[этом документе](https://docs.google.com/document/d/1GQ0OI_OBkj4kyOvhgRXfacbTI9huF4XJDMOct0Lh5og). 
+Инструкции по сдаче заданий находятся в
+[этом документе](https://docs.google.com/document/d/1kUZl08zUoprZzB2xCX89HbrTkSTAQZens6xAzu-5pvw). 
